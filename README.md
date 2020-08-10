@@ -1,9 +1,9 @@
-### Hi there, I'm [Manon][website]
+### Hi there, I'm [Manon][website] 👋
 
 ## I'm a Developper ...
-- I'm currently working on ...
-- I'm currently learning everything
-- Fun fact : I love exploring caves on my own and discovering new places
+- :computer: I'm currently working on ...
+- :mortar_board: I'm currently learning everything
+- :bulb: Fun fact : I love exploring caves on my own and discovering new places 🌱
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
