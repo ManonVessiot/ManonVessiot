@@ -32,7 +32,7 @@
 [<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 [<img align="left" alt="Git" height="26px" src="https://blog.zwindler.fr/wp-content/uploads/2017/03/git_logo.png" />][youtube]
 [<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="GitLab" height="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />][youtube]
+[<img align="left" alt="GitLab" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" />][youtube]
 
 <br />
 
