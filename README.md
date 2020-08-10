@@ -40,6 +40,11 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="ManonVessiot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManonVessiot&show_icons=true&hide_border=true" />
+
+
 [website]: http://manonvessiot.epizy.com/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
 [youtube]: https://www.youtube.com
