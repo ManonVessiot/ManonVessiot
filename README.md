@@ -27,14 +27,6 @@
 [<img align="left" alt="PHP" height="26px" src="http://www.jusderaisin.com/wp-content/uploads/2014/06/1000px-PHP-logo.svg_.png" />][youtube]
 
 <br />
-<br />
-
-[<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
-[<img align="left" alt="Git" height="26px" src="https://blog.zwindler.fr/wp-content/uploads/2017/03/git_logo.png" />][youtube]
-[<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
-[<img align="left" alt="GitLab" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" />][youtube]
-
-<br />
 
 [<img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="MySQL" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />][youtube]
@@ -46,6 +38,14 @@
 [<img align="left" alt="Visual Studio" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Visual_Studio_2013_Logo.svg" />][youtube]
 [<img align="left" alt="Unity" height="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][youtube]
 [<img align="left" alt="Blender" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1252px-Blender_logo_no_text.svg.png" />][youtube]
+
+<br />
+<br />
+
+[<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
+[<img align="left" alt="Git" height="26px" src="https://blog.zwindler.fr/wp-content/uploads/2017/03/git_logo.png" />][youtube]
+[<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="GitLab" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" />][youtube]
 
 <br />
 <br />
