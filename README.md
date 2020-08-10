@@ -32,13 +32,11 @@
 [<img align="left" alt="GitLab" height="26px" src="./Images/gitlab.png" />][youtube]
 
 <br />
-<br />
 
 [<img align="left" alt="SQL" height="26px" src="./Images/sql.png" />][youtube]
 [<img align="left" alt="MySQL" height="26px" src="./Images/mysql.png" />][youtube]
 [<img align="left" alt="MongoDB" height="26px" src="./Images/mongodb.png" />][youtube]
 
-<br />
 <br />
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="./Images/visual-studio-code.png" />][youtube]
