@@ -1,9 +1,12 @@
 ### Hi there, I'm [Manon][website] 👋
 
-## I'm a Developper ...
-- :computer: I'm currently working on ...
-- :mortar_board: I'm currently learning everything
-- :bulb: Fun fact : I love exploring caves on my own and discovering new places 🌱
+## I'm a Student, Developper and Animal lover :dog:
+- :computer: I'm currently working on my end of year internship.
+- :mortar_board: I'm currently learning everything I can.
+- :mag_right: I'm looking for a job for after my studies.
+- 🌱 I love exploring caves on my own and discovering new places 
+- :goal_net: 2020 Goals : Survive !
+- :bulb: Fun fact : This wednesday august 12, I will watch the rain of shooting stars :stars:
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,10 +21,10 @@
 [<img align="left" alt="C++" height="26px" src="./Images/cpp.png" />][youtube]
 [<img align="left" alt="Python" height="26px" src="./Images/python.png" />][youtube]
 [<img align="left" alt="Java" height="26px" src="./Images/java.png" />][youtube]
-[<img align="left" alt="PHP" height="26px" src="./Images/php.svg" />][youtube]
 [<img align="left" alt="HTML5" height="26px" src="./Images/html.png" />][youtube]
 [<img align="left" alt="CSS3" height="26px" src="./Images/css.png" />][youtube]
 [<img align="left" alt="JavaScript" height="26px" src="./Images/javascript.png" />][youtube]
+[<img align="left" alt="PHP" height="26px" src="./Images/php.svg" />][youtube]
 
 <br />
 <br />
