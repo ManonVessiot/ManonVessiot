@@ -41,7 +41,7 @@
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="./Images/visual-studio-code.png" />][youtube]
 [<img align="left" alt="Visual Studio" height="26px" src="./Images/visual-studio.png" />][youtube]
-[<img align="left" alt="Unity" height="26px" src="./Images/visual-studio-code.png" />][youtube]
+[<img align="left" alt="Unity" height="26px" src="./Images/unity.png" />][youtube]
 [<img align="left" alt="Blender" height="26px" src="./Images/blender.png" />][youtube]
 
 <br />
