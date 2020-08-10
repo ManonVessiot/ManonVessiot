@@ -1,9 +1,9 @@
 ### Hi there, I'm [Manon][website] 👋
 
 ## I'm a Student, Developper and Animal lover :dog:
-- :computer: I'm currently working on my end of year internship.
-- :mortar_board: I'm currently learning everything I can.
-- :mag_right: I'm looking for a job for after my studies.
+- :computer: I'm currently working on my end of year internship
+- :mortar_board: I'm currently learning everything I can
+- :mag_right: I'm looking for a job for after my studies
 - 🌱 I love exploring caves on my own and discovering new places 
 - :goal_net: 2020 Goals : Survive !
 - :bulb: Fun fact : This wednesday august 12, I will watch the rain of shooting stars :stars:
