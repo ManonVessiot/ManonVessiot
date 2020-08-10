@@ -14,7 +14,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="./Images/visual-studio-code.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="./Images/html.png" />][youtube]
-[<img align="left" alt="CSS3" width="26px" src="./Images/css.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="./Images/css.png" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="./Images/javascript.png" />][youtube]
 [<img align="left" alt="Node.js" width="26px" src="./Images/nodejs.png" />][youtube]
 [<img align="left" alt="SQL" width="26px" src="./Images/sql.png" />][youtube]
