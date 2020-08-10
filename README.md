@@ -28,5 +28,5 @@
 <br />
 
 [website]: http://manonvessiot.epizy.com/
-[linkedin]: ttps://www.linkedin.com/in/manon-vessiot-b5a054153
+[linkedin]: ttps://www.linkedin.com
 [youtube]: https://www.youtube.com
