@@ -19,7 +19,7 @@
 [<img align="left" alt="Node.js" width="26px" src="./Images/nodejs.png" />][youtube]
 [<img align="left" alt="SQL" width="26px" src="./Images/sql.png" />][youtube]
 [<img align="left" alt="MySQL" width="26px" src="./Images/mysql.png" />][youtube]
-[<img align="left" alt="MongoDB" width="26px" src="./Images/mongodb.png" />][youtube]
+[<img align="left" alt="MongoDB" height="26px" src="./Images/mongodb.png" />][youtube]
 [<img align="left" alt="Git" width="26px" src="./Images/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="./Images/github.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="./Images/terminal.png" />][youtube]
