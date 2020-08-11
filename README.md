@@ -9,8 +9,9 @@
 - :bulb: Fun fact : This wednesday august 12, I will watch the rain of shooting stars :stars:
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="http://manonvessiot.epizy.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Manon Vessiot | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Manon Vessiot | Stack Overflow" height="22px" src="https://image.flaticon.com/icons/svg/2111/2111690.svg" />][stackoverflow]
 
 <br />
 
@@ -47,4 +48,5 @@
 
 [website]: http://manonvessiot.epizy.com/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
+[stackoverflow]: https://stackoverflow.com/users/14066891/manon-vessiot?tab=profile
 [youtube]: https://www.youtube.com
