@@ -7,6 +7,7 @@
 - 🌱 I love exploring caves on my own and discovering new places 
 - :goal_net: 2020 Goals : Survive !
 - :bulb: Fun fact : The first programmer in the world was a woman. 
+
 Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 ### Connect with me:
