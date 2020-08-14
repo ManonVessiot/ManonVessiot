@@ -3,10 +3,10 @@
 ## I'm a Student, Developper and Animal lover :dog:
 - :computer: I'm currently working on my end of year internship
 - :mortar_board: I'm currently learning everything I can
-- :mag_right: I'm looking for a job for after my studies
+- :mag_right: I'm looking for a job, for after my studies
 - 🌱 I love exploring caves on my own and discovering new places 
 - :goal_net: 2020 Goals : Survive !
-- :bulb: Fun fact : This wednesday august 12, I will watch the rain of shooting stars :stars:
+- :bulb: Fun fact : The first programmer in the world was a woman. Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 ### Connect with me:
 [<img align="left" alt="http://manonvessiot.epizy.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -49,4 +49,4 @@
 [website]: http://manonvessiot.epizy.com/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
 [stackoverflow]: https://stackoverflow.com/users/14066891/manon-vessiot?tab=profile
-[youtube]: https://www.youtube.com
+[youtube]: /
