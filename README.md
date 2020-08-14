@@ -6,9 +6,7 @@
 - :mag_right: I'm looking for a job, for after my studies
 - 🌱 I love exploring caves on my own and discovering new places 
 - :goal_net: 2020 Goals : Survive !
-- :bulb: Fun fact : The first programmer in the world was a woman. 
-
-Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
+- :bulb: Fun fact : The first programmer in the world was a woman. <br/> Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 ### Connect with me:
 [<img align="left" alt="http://manonvessiot.epizy.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
