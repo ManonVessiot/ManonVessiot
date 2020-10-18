@@ -1,8 +1,8 @@
 ### Hi there, I'm [Manon][website] 👋
 
 ## I'm a IT engineer, Developper and Animal lover :dog:
-- :computer: I'm working on little project to try new things. Currently, I'm exploring OpenGL.
-- :mortar_board: I'm currently learning everything I can.
+- :computer: I'm currently exploring OpenGL.
+- :mortar_board: I try to learn everything I can.
 - :mag_right: I just finished my studies and I'm looking for a job.
 - 🌱 I love exploring caves on my own and discovering new places.
 - :goal_net: 2020 Goals : Survive !
