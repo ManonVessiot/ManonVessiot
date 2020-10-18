@@ -1,10 +1,10 @@
 ### Hi there, I'm [Manon][website] 👋
 
-## I'm a Student, Developper and Animal lover :dog:
-- :computer: I'm currently working on little project to try new things
-- :mortar_board: I'm currently learning everything I can
-- :mag_right: I just finished my studies and I'm looking for a job
-- 🌱 I love exploring caves on my own and discovering new places 
+## I'm a IT engineer, Developper and Animal lover :dog:
+- :computer: I'm working on little project to try new things. Currently, I'm exploring OpenGL.
+- :mortar_board: I'm currently learning everything I can.
+- :mag_right: I just finished my studies and I'm looking for a job.
+- 🌱 I love exploring caves on my own and discovering new places.
 - :goal_net: 2020 Goals : Survive !
 - :bulb: Fun fact : The first programmer in the world was a woman. <br/> Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
