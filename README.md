@@ -20,48 +20,46 @@
 
 #### Mainly used:
 
-<img align="left" alt="Unity" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/unity.png" />
+[<img align="left" alt="Unity" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/unity.png" />][unity]
 
-<img align="left" alt="C#" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/cs.png" />
+[<img align="left" alt="C#" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/cs.png" />][cs]
 
-<img align="left" alt="Visual Studio" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudio.png" />
+[<img align="left" alt="Visual Studio" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudio.png" />][visualstudio]
 
-<img align="left" alt="Visual Studio Code" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudiocode.png" />
+[<img align="left" alt="Visual Studio Code" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudiocode.png" />][visualstudiocode]
 
-<img align="left" alt="MySQL" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mysql.png" />
+[<img align="left" alt="MySQL" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mysql.png" />][mysql]
 
-<img align="left" alt="MongoDB" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mongodb.png" />
+[<img align="left" alt="MongoDB" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mongodb.png" />][mongodb]
 
-<img align="left" alt="Terminal" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/console.png" />
+[<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />][git]
 
-<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />
+[<img align="left" alt="GitHub" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/github.png" />][github]
 
-<img align="left" alt="GitHub" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/github.png" />
+[<img align="left" alt="GitLab" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/gitlab.png" />][gitlab]
 
-<img align="left" alt="GitLab" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/gitlab.png" />
-
-<img align="left" alt="Blender" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/blender.png" />
+[<img align="left" alt="Blender" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/blender.png" />][blender]
 
 <br />
 <br />
 
 #### Others:
 
-<img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/html.png" />
+[<img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/html.png" />][html]
 
-<img align="left" alt="CSS3" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/css.png" />
+[<img align="left" alt="CSS3" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/css.png" />][css]
 
-<img align="left" alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/javascript.png" />
+[<img align="left" alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/javascript.png" />][javascript]
 
-<img align="left" alt="PHP" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/php.png" />
+[<img align="left" alt="PHP" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/php.png" />][php]
 
-<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/c.png" />
+[<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/c.png" />][c]
 
-<img align="left" alt="C++" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/cpp.png" />
+[<img align="left" alt="C++" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/cpp.png" />][cpp]
 
-<img align="left" alt="Python" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/python.png" />
+[<img align="left" alt="Python" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/python.png" />][python]
 
-<img align="left" alt="Java" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/java.png" />
+[<img align="left" alt="Java" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/java.png" />][java]
 
 <br />
 <br />
@@ -75,3 +73,23 @@
 [website]: https://manonvessiot.github.io/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
 [stackoverflow]: https://stackoverflow.com/users/14066891/manon-vessiot?tab=profile
+
+[unity]: https://unity.com/
+[cs]: https://docs.microsoft.com/fr-fr/dotnet/csharp/
+[visualstudio]: https://visualstudio.microsoft.com/
+[visualstudiocode]: https://code.visualstudio.com/
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[gitlab]: https://gitlab.com/
+[blender]: https://www.blender.org/
+
+[html]: https://developer.mozilla.org/fr/docs/Web/HTML
+[css]: https://developer.mozilla.org/fr/docs/Web/CSS/Reference
+[javascript]: https://developer.mozilla.org/fr/docs/Web/JavaScript
+[php]: https://www.php.net/docs.php
+[c]: https://devdocs.io/c/
+[cpp]: https://docs.microsoft.com/fr-fr/cpp/cpp/?view=msvc-170
+[python]: https://docs.python.org/
+[java]: https://docs.oracle.com/en/java/
