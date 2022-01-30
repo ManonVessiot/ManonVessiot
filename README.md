@@ -40,9 +40,10 @@
 <br />
 <br />
 
----
 
-# <img align="left" alt="ManonVessiot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManonVessiot&show_icons=true&hide_border=true&count_private=true" />
+[//]: # (---)
+
+[//]: # (<img align="left" alt="ManonVessiot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManonVessiot&show_icons=true&hide_border=true&count_private=true" />)
 
 
 [website]: http://manonvessiot.epizy.com/
