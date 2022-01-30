@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/terminal.png" />
+<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/console.png" />
 
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />
 
