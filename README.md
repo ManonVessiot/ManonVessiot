@@ -4,7 +4,7 @@
 - :computer: I'm currently creating a game app.
 - :mortar_board: I try to learn everything I can.
 - 🌱 I love exploring caves on my own and discovering new places.
-- :goal_net: 2021 Goals : Survive my first job !
+- :goal_net: 2022 Goals : Become a ninja !
 - :bulb: Fun fact : The first programmer in the world was a woman. <br/> Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 ### Connect with me:
