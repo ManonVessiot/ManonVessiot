@@ -1,4 +1,4 @@
-### Hi there, I'm [Manon][website] 👋
+### Hi there, I'm Manon 👋
 
 ## I'm a IT engineer, Developper and Animal lover :dog:
 - :computer: I'm currently creating a game app.
