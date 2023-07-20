@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/insta.png" />][insta]
+[<img align="left" alt="Instagram" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/instagram.png" />][insta]
 
 <br />
 <br />
