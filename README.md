@@ -9,6 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/insta.png" />][insta]
 
 <br />
 <br />
@@ -70,6 +71,7 @@
 
 [website]: https://manonvessiot.github.io/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
+[insta] : https://www.instagram.com/vessiot.m/
 [stackoverflow]: https://stackoverflow.com/users/14066891/manon-vessiot?tab=profile
 
 [unity]: https://unity.com/
