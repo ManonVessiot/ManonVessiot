@@ -27,10 +27,6 @@
 
 [<img align="left" alt="Visual Studio Code" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudiocode.png" />][visualstudiocode]
 
-[<img align="left" alt="MySQL" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mysql.png" />][mysql]
-
-[<img align="left" alt="MongoDB" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mongodb.png" />][mongodb]
-
 [<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />][git]
 
 [<img align="left" alt="GitHub" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/github.png" />][github]
@@ -39,11 +35,6 @@
 
 [<img align="left" alt="Blender" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/blender.png" />][blender]
 
-<br />
-<br />
-
-#### Others:
-
 [<img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/html.png" />][html]
 
 [<img align="left" alt="CSS3" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/css.png" />][css]
@@ -51,6 +42,15 @@
 [<img align="left" alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/javascript.png" />][javascript]
 
 [<img align="left" alt="PHP" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/php.png" />][php]
+
+<br />
+<br />
+
+#### Others:
+
+[<img align="left" alt="MySQL" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mysql.png" />][mysql]
+
+[<img align="left" alt="MongoDB" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/mongodb.png" />][mongodb]
 
 [<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/c.png" />][c]
 
