@@ -1,7 +1,8 @@
 ### Hi there, I'm Manon 👋
 
 ## I'm a IT engineer, Developper and Animal lover :dog:
-- :computer: I'm currently creating a game app.
+- :office: Currently I'm working in a virtual reality center called CRVM, in Marseille
+- :computer: In my personal time I am creating an app.
 - :mortar_board: I try to learn everything I can.
 - 🌱 I love exploring caves on my own and discovering new places.
 - :goal_net: 2023 Goals : Become a ninja !
