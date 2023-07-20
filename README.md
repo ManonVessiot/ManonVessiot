@@ -25,15 +25,9 @@
 
 [<img align="left" alt="Visual Studio" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudio.png" />][visualstudio]
 
-[<img align="left" alt="Visual Studio Code" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudiocode.png" />][visualstudiocode]
-
-[<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />][git]
-
-[<img align="left" alt="GitHub" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/github.png" />][github]
-
-[<img align="left" alt="GitLab" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/gitlab.png" />][gitlab]
-
 [<img align="left" alt="Blender" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/blender.png" />][blender]
+
+[<img align="left" alt="Visual Studio Code" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/visualstudiocode.png" />][visualstudiocode]
 
 [<img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/html.png" />][html]
 
@@ -42,6 +36,12 @@
 [<img align="left" alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/javascript.png" />][javascript]
 
 [<img align="left" alt="PHP" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/php.png" />][php]
+
+[<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/git.png" />][git]
+
+[<img align="left" alt="GitHub" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/github.png" />][github]
+
+[<img align="left" alt="GitLab" height="50px" src="https://raw.githubusercontent.com/ManonVessiot/ManonVessiot/master/imgs/gitlab.png" />][gitlab]
 
 <br />
 <br />
