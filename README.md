@@ -71,7 +71,7 @@
 
 [website]: https://manonvessiot.github.io/
 [linkedin]: https://www.linkedin.com/in/manon-vessiot-b5a054153
-[insta] : https://www.instagram.com/vessiot.m/
+[insta]: https://www.instagram.com/vessiot.m/
 [stackoverflow]: https://stackoverflow.com/users/14066891/manon-vessiot?tab=profile
 
 [unity]: https://unity.com/
