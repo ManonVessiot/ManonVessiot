@@ -2,7 +2,7 @@
 
 ## I'm a IT engineer, Developper and Animal lover :dog:
 - :office: Currently I'm working in a virtual reality center called CRVM, in Marseille
-- :computer: In my personal time I am creating an app.
+- :computer: In my personal time I am creating apps and I participate in game jams to improve myself.
 - :mortar_board: I try to learn everything I can.
 - 🌱 I love exploring caves on my own and discovering new places.
 - :goal_net: 2023 Goals : Become a ninja !
