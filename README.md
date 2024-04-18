@@ -5,7 +5,7 @@
 - :computer: In my personal time I am creating apps and I participate in game jams to improve myself.
 - :mortar_board: I try to learn everything I can.
 - 🌱 I love exploring caves on my own and discovering new places.
-- :goal_net: 2023 Goals : Become a ninja !
+- :goal_net: 2024 Goals : Become a ninja !
 - :bulb: Fun fact : The first programmer in the world was a woman. <br/> Her name was Ada Lovelace and she worked on an analytical engine back in the 1,800’s.
 
 ### Connect with me:
